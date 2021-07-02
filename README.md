@@ -8,10 +8,10 @@
 
 ####
 
-<a style="color:white" href="https://www.facebook.com/eldjazaery/" target="_blank">
-    <img src="https://img.icons8.com/doodle/48/ffffff/facebook-new.png" width="30"/>
+<a style="margin-left:1rem; margin-right:1rem;" href="https://www.facebook.com/eldjazaery/" target="_blank">
+    <img src="https://img.icons8.com/doodle/48/ffffff/facebook-new.png" width="45"/>
 </a>
 
-<a style="color:white" href="https://www.linkedin.com/in/ibrahim-eldjazaery/" target="_blank">
-    <img src="https://img.icons8.com/cute-clipart/64/ffffff/linkedin.png" width="30"/>
+<a style="margin-left:1rem; margin-right:1rem;" href="https://www.linkedin.com/in/ibrahim-eldjazaery/" target="_blank">
+    <img src="https://img.icons8.com/cute-clipart/64/ffffff/linkedin.png" width="45"/>
 </a>
