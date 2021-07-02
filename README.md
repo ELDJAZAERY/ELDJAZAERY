@@ -9,13 +9,9 @@
 ####
 
 <a style="color:white" href="https://www.facebook.com/eldjazaery/" target="_blank">
-    <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/fb.png" alt="Facebook" width="30">
+    <img src="https://img.icons8.com/doodle/48/ffffff/facebook-new.png" width="30"/>
 </a>
 
 <a style="color:white" href="https://www.linkedin.com/in/ibrahim-eldjazaery/" target="_blank">
-    <img src="https://raw.githubusercontent.com/nakulbhati/nakulbhati/master/contain/in.png" alt="LinkedIn" width="30">
+    <img src="https://img.icons8.com/cute-clipart/64/ffffff/linkedin.png" width="30"/>
 </a>
-
-<p style="color:white" align="left">
-    <img src="https://komarev.com/ghpvc/?username=eldjazaery&color=brightgreen" alt="eldjazaery" />
-</p>
